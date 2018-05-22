@@ -2,8 +2,7 @@
 
 # This script is used to generate the sql cmd based on the mySQL bkup csv file.
 # input1:  MySQL DB table bkup csv format file
-# input2:  Table column name 
-# output:  The script
+# output:  The sql cmd
 
 """
 e.g.
